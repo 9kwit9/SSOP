@@ -1,0 +1,15 @@
+D:\Project Aikchol\AHCSSOP\AHCSSOP\bin\Debug\AHCSSOP.exe.config
+D:\Project Aikchol\AHCSSOP\AHCSSOP\bin\Debug\AHCSSOP.exe
+D:\Project Aikchol\AHCSSOP\AHCSSOP\bin\Debug\AHCSSOP.pdb
+D:\Project Aikchol\AHCSSOP\AHCSSOP\obj\Debug\AHCSSOP.frmdescription.resources
+D:\Project Aikchol\AHCSSOP\AHCSSOP\obj\Debug\AHCSSOP.frmmain.resources
+D:\Project Aikchol\AHCSSOP\AHCSSOP\obj\Debug\AHCSSOP.frmshow.resources
+D:\Project Aikchol\AHCSSOP\AHCSSOP\obj\Debug\AHCSSOP.Properties.Resources.resources
+D:\Project Aikchol\AHCSSOP\AHCSSOP\obj\Debug\AHCSSOP.csproj.GenerateResource.Cache
+D:\Project Aikchol\AHCSSOP\AHCSSOP\obj\Debug\AHCSSOP.exe.licenses
+D:\Project Aikchol\AHCSSOP\AHCSSOP\obj\Debug\AHCSSOP.exe
+D:\Project Aikchol\AHCSSOP\AHCSSOP\obj\Debug\AHCSSOP.pdb
+D:\Project Aikchol\AHCSSOP\AHCSSOP\bin\Debug\AHCSSOP.exe.manifest
+D:\Project Aikchol\AHCSSOP\AHCSSOP\bin\Debug\AHCSSOP.application
+D:\Project Aikchol\AHCSSOP\AHCSSOP\obj\Debug\AHCSSOP.exe.manifest
+D:\Project Aikchol\AHCSSOP\AHCSSOP\obj\Debug\AHCSSOP.application
